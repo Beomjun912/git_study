@@ -5,5 +5,7 @@ public class Main {
 
             System.out.println("i = " + i);
         }
+            System.out.println("나 팀장이야~");
+            System.out.println("난 C야");
+        }
     }
-}
