@@ -10,6 +10,5 @@ public class Main {
             System.out.println("난 C야");
         System.out.println("나 d야");
         //아무말~~
-        //메인 수정 중............
         }
     }
